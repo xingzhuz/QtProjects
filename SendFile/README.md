@@ -19,8 +19,9 @@
 	- [x] 解决了传输文件的问题，实现接收在特定目录，然后使用客户端发来的文件名
 	- [x] 修复诸多 BUG，并添加注释
 
-https://bu.dusays.com/2024/11/11/6731be60573be.png
+## 效果展示
+
+<img src="https://bu.dusays.com/2024/11/11/6731be60573be.png" alt="客户端" width="400" height="420">
 
 
-
-https://bu.dusays.com/2024/11/11/6731be6177764.png
+<img src="https://bu.dusays.com/2024/11/11/6731be6177764.png" alt="服务器端" width="400" height="420">
